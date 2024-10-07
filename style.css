@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    background-color: rgb(196, 184, 171);
+    
+}
+
+table,td,tr{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form{
+       
+    margin: 10px;      
+    text-align: center;               
+ 
+
+}
+input{
+   border-radius: 4px;
+
+
+}
+
+select{
+   border-radius: 4px;
+   background-color: #f1f1f1;
+ 
+
+
+}
+label{
+   border-radius: 4px;
+   
+}
+h1,h2,h3{
+    text-align: center;
+}
